@@ -142,7 +142,7 @@ export default function Home() {
 
             {/* Resume */}
             <a
-              href="/Gabriel-Benavides-resume.pdf"
+              href="/Gabriel-Benavides-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group rounded-xl border border-zinc-800 p-8 transition hover:border-zinc-600 hover:bg-zinc-950"
