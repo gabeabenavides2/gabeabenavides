@@ -1,0 +1,12 @@
+services:
+  portfolio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: gabe-portfolio
+
+    ports:
+      - "127.0.0.1:3000:3000"
+
+    restart: unless-stopped
