@@ -60,7 +60,7 @@ export default function Home() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/gabriel-benavides-348165214/"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"
