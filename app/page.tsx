@@ -60,7 +60,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/gabriel-benavides-348165214/"
+              href="https://www.linkedin.com/in/gabriel-benavides-348165214"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"
@@ -69,7 +69,7 @@ export default function Home() {
             </a>
 
             <a
-              href="mailto:YOUR_EMAIL"
+              href="mailto:Benavi59@msu.edu"
               className="transition hover:text-white"
             >
               Email ↗
@@ -194,7 +194,7 @@ export default function Home() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/gabriel-benavides-348165214"
               target="_blank"
               rel="noopener noreferrer"
               className="transition hover:text-white"
@@ -203,7 +203,7 @@ export default function Home() {
             </a>
 
             <a
-              href="mailto:YOUR_EMAIL"
+              href="mailto:gabeabenavides@msu.edu"
               className="transition hover:text-white"
             >
               Email

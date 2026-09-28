@@ -21,7 +21,7 @@ export default function Blog() {
           </Link>
 
           <a
-            href="/Gabriel-Benavides-resume.pdf"
+            href="/Gabriel-Benavides-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="transition hover:text-white"
