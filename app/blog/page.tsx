@@ -16,8 +16,7 @@ export default function Blog() {
         </h1>
 
         <p className="mt-4 text-lg text-gray-600">
-          Thoughts on software engineering, infrastructure, AI, technology,
-          and things I&apos;m learning along the way.
+          My thoughts 
         </p>
       </header>
 
