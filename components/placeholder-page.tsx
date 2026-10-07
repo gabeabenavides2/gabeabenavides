@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-import { SiteHeader } from "@/components/site-header";
 import type { NavigationHref } from "@/lib/site";
 
 type PlaceholderPageProps = {
@@ -16,7 +15,6 @@ export function PlaceholderPage({
 }: PlaceholderPageProps) {
   return (
     <main className="min-h-screen">
-      <SiteHeader activePath={activePath} />
 
       <section className="mx-auto flex min-h-[75vh] w-[90%] max-w-[1600px] items-center">
         <div>

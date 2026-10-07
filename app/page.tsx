@@ -1,18 +1,16 @@
 import { ExploreCard } from "@/components/explore-card";
 import { SiteFooter } from "@/components/site-footer";
-import { SiteHeader } from "@/components/site-header";
 import { SocialLinks } from "@/components/social-links";
 import { resumeHref } from "@/lib/site";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <SiteHeader />
 
       <section className="mx-auto flex min-h-[65vh] w-[90%] max-w-[1600px] items-center">
         <div className="max-w-5xl">
           <p className="mb-5 font-mono text-sm text-zinc-500">
-            COMPUTER SCIENCE · DEVOPS · SOFTWARE ENGINEERING · AI · CLOUD
+            SOFTWARE ENGINEERING · AI · CLOUD
           </p>
           <h1 className="text-6xl font-semibold tracking-tight sm:text-7xl lg:text-8xl">
             Gabe Benavides
